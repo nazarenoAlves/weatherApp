@@ -1,5 +1,5 @@
 Weather App
-Este é um aplicativo de previsão do tempo construído usando React e a API OpenWeatherMap.
+Este é um aplicativo de previsão do tempo construído usando React, TailWind e a API OpenWeatherMap.
 
 Pré-requisitos
 Para executar o aplicativo em sua máquina local, você precisará ter o Node.js instalado em seu computador.
